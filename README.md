@@ -83,6 +83,8 @@ The dashboard helps in understanding smartphone performance trends and supports 
 ##  Dashboard Preview
 <img width="892" height="498" alt="image" src="https://github.com/user-attachments/assets/8190b1bf-e819-4258-a5b9-5c077d887def" />
 
+<img width="888" height="500" alt="image" src="https://github.com/user-attachments/assets/fc5da8d3-7ef9-4da4-b40a-fdb127f53f94" />
 
----
+
+
 
